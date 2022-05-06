@@ -6,7 +6,7 @@
 
 ### Project Presentation and Demo Link
 The Project Presentation and Video Link is added in the Google spreadsheet.
-https://docs.google.com/spreadsheets/d/16HK61WZmtoCVu8NhtHNEdcW0slIohgBkoixZP3hnC9U/edit#gid=0
+https://youtu.be/WBAdfvj9xlQ
 
 ### Project Description:
 	Monocular Depth Estimation - We propose to solve monocular depth estimation into a supervised learning problem. 
